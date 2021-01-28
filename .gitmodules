@@ -1,0 +1,3 @@
+[submodule "A1/TeachingCartpole"]
+	path = A1/TeachingCartpole
+	url = git@github.com:JadWehbeh/TeachingCartpole.git
